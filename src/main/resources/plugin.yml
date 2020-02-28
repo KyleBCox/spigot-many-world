@@ -1,0 +1,8 @@
+name: Manyworlds
+version: ${project.version}
+main: com.kcmc.manyworlds.Manyworlds
+api-version: 1.13
+commands:
+  tpmw:
+    description: another world tp
+    usage: /tpmw <World Name>
