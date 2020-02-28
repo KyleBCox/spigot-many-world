@@ -4,5 +4,5 @@ main: com.kcmc.manyworlds.Manyworlds
 api-version: 1.13
 commands:
   tpmw:
-    description: another world tp
+    description: spawn yourself into another world
     usage: /tpmw <World Name>
